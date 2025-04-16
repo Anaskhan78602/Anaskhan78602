@@ -61,7 +61,7 @@ I specialize in crafting **highly interactive & visually stunning** user experie
       <th>📌 Description</th>
     </tr>
     <tr>
-      <td><strong><a href="#">Yumify</a></strong></td>
+      <td><strong><a href="https://yumify-food-delivery.netlify.app/">Yumify</a></strong></td>
       <td>React, Three.js, Node.js, MongoDB</td>
       <td>Highly Animated Food Delivery App</td>
     </tr>
@@ -71,7 +71,7 @@ I specialize in crafting **highly interactive & visually stunning** user experie
       <td>AI-powered student learning system</td>
     </tr>
     <tr>
-      <td><strong><a href="#">Portfolio</a></strong></td>
+      <td><strong><a href="https://portfolio-anas-eight.vercel.app/">Portfolio</a></strong></td>
       <td>React, Next.js, Three.js</td>
       <td>Advanced **3D Animated** portfolio</td>
     </tr>
