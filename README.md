@@ -27,7 +27,7 @@ I specialize in crafting **highly interactive & visually stunning** user experie
 ## 🛠 Tech Stack & Tools  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,redux,nextjs,nodejs,express,mongodb,git,github,tailwind,threejs,figma,docker,aws,vercel,linux" />
+  <img src="https://skillicons.dev/icons?i=js,react,redux,nextjs,nodejs,express,mongodb,git,github,tailwind,figma,docker,aws,vercel,linux" />
 </p>
 
 ---
@@ -110,3 +110,5 @@ I specialize in crafting **highly interactive & visually stunning** user experie
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,50:8A2BE2,100:00FF66&height=200&section=footer&text=✨%20Code,%20Build,%20Innovate!%20🚀&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
+
+<h1>Thanks For Visiting!!!</h1>
