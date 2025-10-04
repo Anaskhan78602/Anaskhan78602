@@ -174,7 +174,7 @@ const Anas = {
             <a href="https://github.com/Anaskhan78602/portfolio" target="_blank">
               <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
             </a>
-            <a href="https://portfolio-anas-eight.vercel.app/" target="_blank">
+            <a href="https://anaskhan78602.github.io/PORTFOLIO-SPACE-EDITION/" target="_blank">
               <img src="https://img.shields.io/badge/Live-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
             </a>
           </p>
